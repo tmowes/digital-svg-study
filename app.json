@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "digital-svg",
+    "slug": "digital-svg",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "digital-svg"
+}
